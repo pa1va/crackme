@@ -8,3 +8,6 @@
 - Arch: x86-64
 - Description: create a keygen!
 - https://crackmes.one/crackme/66688d11e7b35c09bb266bbc
+
+# Writeup
+- https://pwnbuffer.org/p/pw/Writing-a-KeyGen.html
