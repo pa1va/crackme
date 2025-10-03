@@ -1,5 +1,5 @@
 # Write a Keygen
-Author: syscall
+- Author: syscall
 - Language: C/C++
 - Upload: 5:44 PM 06/11/2024
 - Platform: Unix/linux etc.
